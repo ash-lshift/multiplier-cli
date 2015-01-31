@@ -1,0 +1,3 @@
+[submodule "multiplier"]
+	path = multiplier
+	url = git@github.com:lshift/multiplier
